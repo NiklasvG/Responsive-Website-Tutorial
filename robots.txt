@@ -1,0 +1,5 @@
+# robots.txt zu https://nitradoindex.gq/Tutorial/
+
+User-agent: *
+Disallow: /
+
